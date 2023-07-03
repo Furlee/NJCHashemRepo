@@ -7,4 +7,5 @@ This is our NJC HASHEM Training repository
 * Department 
 - Faculty
 + Unit
-  
+### We are making progress
+My repository is cloned
